@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Igor (he/him)
 
 - 👨🏻‍💻 I solve biological problems with computational tools.
-- 🧬 I deal Illumina and Nanopore sequencing data.
+- 🧬 I deal with Illumina and Nanopore sequencing data.
 - 🧐 Most interested in 🧫 microbial community analysis and symbiosis.
 
 - 🧩 Here, you'll find pieces of code I put together during my work routine to deal with (meta)genomics, metabarcoding and (meta)transcriptomics.

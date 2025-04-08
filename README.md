@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Igor (he/him)
+### Hello! 👋 I'm Igor
 
 - 👨🏻‍💻 I solve biological problems with computational tools.
 - 🧬 I deal with Illumina and Nanopore sequencing data.
